@@ -1,11 +1,8 @@
-> [!WARNING]
-> 
-> This project is deprecated.
-> Join Telegram Channel for more informations :- https://t.me/kodtikide_app
+
  
 <p align='center'>
- <img width='300px%' height='300px' src='https://github.com/Deenu488/CodeAssist-Unofficial/blob/main/logo-dark.png#gh-dark-mode-only' >
-<img width='300px' height='300px' src='https://github.com/Deenu488/CodeAssist-Unofficial/blob/main/logo-light.png#gh-light-mode-only'>
+ <img width='300px%' height='300px' src='https://github.com/Ron015/CodeAssist-Unofficial/blob/main/logo-dark.png#gh-dark-mode-only' >
+<img width='300px' height='300px' src='https://github.com/Ron015/CodeAssist-Unofficial/blob/main/logo-light.png#gh-light-mode-only'>
 </p>
 
 <h2 align="center"><b>CodeAssist Unofficial</b></h2>
@@ -126,6 +123,6 @@ Clone this repository to your local device and then open it on Android Studio.
 
 # Contributors
 
-- Updated Templates By @SENPAi_203
+- Updated Templates By @SENPAi_203, Ron015
 
 # CodeAssist-Unofficial
